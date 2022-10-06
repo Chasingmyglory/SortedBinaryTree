@@ -1,5 +1,5 @@
 /*
- * @Authors: George Naous, Mohammad Raisul Hasan Shamim, Azizul Hakim
+ * @Authors:  Mohammad Raisul Hasan Shamim 
  * @Date: 11.12.2021
  * Purpose: SortedBinaryTree class, to create a BT structure to sort node objects
  * implements an iterator for inOrder traversal
